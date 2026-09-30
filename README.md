@@ -1,6 +1,6 @@
-# Residual Effects of Air Travel on Oxygen Saturation in D1 Collegiate American Football Athletes
+# Residual Effects of Air Travel on Oxygen Saturation in Collegiate American Football Athletes
 
-Data and code for  MIT Sloan Sports Analytics Conference abstract "Residual Effects of Air Travel on Oxygen Saturation in D1 Collegiate American Football Athletes", authors Eric J. Renaghan, Gabriel Huang, Harrison L. Wittels and Michael J. Wishon
+Data and code for  MIT Sloan Sports Analytics Conference abstract "Residual Effects of Air Travel on Oxygen Saturation in Collegiate American Football Athletes", authors Eric J. Renaghan, Gabriel Huang, Harrison L. Wittels and Michael J. Wishon
 
 ## Data
 
